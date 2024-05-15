@@ -19,7 +19,7 @@ app.use(express.json());
 })); */
 
 const PORT = 8080;
-/* const db = "mongodb+srv://leodede04:SYZ8HuLNTzstzwpu@cluster0.dnb3kpq.mongodb.net/testtest?retryWrites=true&w=majority"; */
+/*  */
 
 /* mongoose
   .connect(db)
